@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Weightbalance</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Science" sketch:type="MSLayerGroup" transform="translate(-260.000000, -987.000000)" stroke-linecap="round" stroke="#83aae5" stroke-width="2">
+            <g id="Weightbalance" transform="translate(262.000000, 997.000000)" sketch:type="MSShapeGroup">
+                <path d="M0.5,29.5 L55.5,39.5" id="Line"></path>
+                <polygon id="Triangle-12" stroke-linejoin="round" points="28.5 34.909431 35.9167106 43 21.0832894 43 "></polygon>
+                <circle id="Oval-185" cx="10" cy="6" r="6"></circle>
+                <circle id="Oval-185" cx="47" cy="22" r="8"></circle>
+                <rect id="Rectangle-101" x="15" y="43" width="27" height="4" rx="1"></rect>
+                <g id="Line-+-Line-67" transform="translate(44.000000, 19.000000)" stroke-linejoin="round">
+                    <path d="M0.525126266,0.525126266 L5.47487373,5.47487373" id="Line"></path>
+                    <path d="M0.171572875,5.62132034 L5.12132034,0.671572875" id="Line-67"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
